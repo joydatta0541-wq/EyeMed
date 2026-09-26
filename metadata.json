@@ -1,0 +1,6 @@
+{
+  "name": "EyeMed",
+  "description": "Native ophthalmology eye medication reminder system with reliable background alarms, exact dosing schedules, and phase auto-switching for Bangladesh local time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
